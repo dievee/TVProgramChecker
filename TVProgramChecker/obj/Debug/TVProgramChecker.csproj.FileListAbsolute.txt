@@ -1,0 +1,1 @@
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\bin\Debug\TVProgramChecker.exe.config
