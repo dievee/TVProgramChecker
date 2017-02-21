@@ -1,1 +1,8 @@
 C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\bin\Debug\TVProgramChecker.exe.config
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\bin\Debug\TVProgramChecker.exe
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\bin\Debug\TVProgramChecker.pdb
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\obj\Debug\TVProgramChecker.csprojResolveAssemblyReference.cache
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\obj\Debug\TVProgramChecker.exe
+C:\Sources\GitRepo\TVProgramChecker\TVProgramChecker\obj\Debug\TVProgramChecker.pdb
