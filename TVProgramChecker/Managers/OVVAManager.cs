@@ -12,7 +12,7 @@ namespace TVProgramChecker.Managers
     {
         private string url = "https://api.ovva.tv/v2/ua/tvguide/1plus1/";
 
-        public object GetTodayTVProgram()
+        public ShowData GetTodayTVProgram()
         {
             ShowData sd = new ShowData();
             try

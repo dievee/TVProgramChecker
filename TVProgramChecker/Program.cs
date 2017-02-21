@@ -12,7 +12,15 @@ namespace TVProgramChecker
         static void Main(string[] args)
         {
             OVVAManager ovva = new OVVAManager();
-            ovva.GetTodayTVProgram();
+            PictureManager pm = new PictureManager();
+
+            string s = AppDomain.CurrentDomain.BaseDirectory;
+
+            ShowData sd = new ShowData();
+            sd = ovva.GetTodayTVProgram();
+
+            pm.ReduceImageResolution(sd);
+
         }
     }
 }
