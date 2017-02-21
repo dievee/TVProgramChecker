@@ -19,7 +19,8 @@ namespace TVProgramChecker
             ShowData sd = new ShowData();
             sd = ovva.GetTodayTVProgram();
 
-            pm.ReduceImageResolution(sd);
+          sd = pm.ReduceImageResolution(sd);
+            pm.GetFullProgramImage(sd);
 
         }
     }
