@@ -50,6 +50,7 @@ namespace TVProgramChecker.Managers
             int i = 0, currentHeight = 0;
             Bitmap fullProgramImage = new Bitmap(1000, sd.Shows.Count * 100);
             Graphics g = Graphics.FromImage(fullProgramImage);
+            
             string status = "";
             foreach ( Show s in sd.Shows)
             {
